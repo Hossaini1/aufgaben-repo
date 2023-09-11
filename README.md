@@ -1,2 +1,2 @@
 # aufgaben-repo
-## Hier sind alle Aufgaben mit Lösunden!
+## Hier sind alle Aufgaben mit Lösungen!
