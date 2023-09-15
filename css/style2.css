@@ -1,0 +1,68 @@
+/* Globale Stile */
+body {
+    font-family: "Arial", sans-serif;
+    background-color: #e6f7ff; /* Einzigartige Hintergrundfarbe */
+    margin: 0;
+    padding: 0;
+}
+
+/* Container für die Ausrichtung */
+.container {
+    display: flex;
+    justify-content: center; /* Zentriert den Inhalt horizontal */
+    align-items: center; /* Zentriert den Inhalt vertikal */
+    min-height: 100vh; /* Mindesthöhe für den ganzen Bildschirm */
+}
+
+/* Hauptinhalt-Stile */
+main {
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    max-width: 800px; /* Begrenzt die Breite des Inhalts */
+    width: 100%; /* Sorgt dafür, dass der Inhalt nicht breiter als der Bildschirm wird */
+}
+
+.task {
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Aufgaben- und Lösungs-Stile */
+h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 20px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 15px;
+}
+
+/* Footer-Stile */
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+}
+
+ul li {
+margin-top: 20px;
+}
+
+img {
+    width: 750px;
+}
+
