@@ -10,3 +10,7 @@
 - [uib-04 von 13.09.2023](https://hossaini1.github.io/aufgaben-repo/13-09-23/uib-04.html)
 
 - [uib-05 von 13.09.2023](https://hossaini1.github.io/aufgaben-repo/13-09-23/uib-05/uib-05.html)
+
+- [uib-06 von 14.09.2023](https://hossaini1.github.io/aufgaben-repo/14-09-23/uib-06/uib-06.html)
+
+- [uib-07 von 14.09.2023](https://hossaini1.github.io/aufgaben-repo/14-09-23/uib-07/uib-07.html)
