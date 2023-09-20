@@ -14,3 +14,22 @@
 - [uib-06 von 14.09.2023](https://hossaini1.github.io/aufgaben-repo/14-09-23/uib-06/uib-06.html)
 
 - [uib-07 von 14.09.2023](https://hossaini1.github.io/aufgaben-repo/14-09-23/uib-07/uib-07.html)
+
+- [uib-08 (1) von 18.09.2023](https://hossaini1.github.io/aufgaben-repo/18-09-23/uib-08/index.html)
+
+- [uib-08 (2) von 18.09.2023](https://hossaini1.github.io/aufgaben-repo/18-09-23/uib-08/contact.html)
+
+- [uib-09 von 18.09.2023](https://hossaini1.github.io/aufgaben-repo/18-09-23/uib-09/index.html)
+
+- [uib-10 (1) von 19.09.2023](https://hossaini1.github.io/aufgaben-repo/19-09-23/uib-10/index.html)
+
+- [uib-10 (2) von 19.09.2023](https://hossaini1.github.io/aufgaben-repo/19-09-23/uib-10/posts/forlife.html)
+
+- [uib-10 (3) von 19.09.2023](https://hossaini1.github.io/aufgaben-repo/19-09-23/uib-10/posts/hausdesgeldes.html)
+
+- [uib-10 (4) von 19.09.2023](https://hossaini1.github.io/aufgaben-repo/19-09-23/uib-10/posts/squadgame.html)
+
+- [uib-11 von 19.09.2023](https://hossaini1.github.io/aufgaben-repo/19-09-23/uib-11/index.html)
+
+- [uib-12 von 19.09.2023](https://hossaini1.github.io/aufgaben-repo/19-09-23/uib-12/index.html)
+

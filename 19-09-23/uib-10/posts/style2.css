@@ -1,0 +1,15 @@
+.container2 {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: antiquewhite;
+}
+
+.container3 img{
+float: right;
+margin-right: 5px;
+
+}
+.fliessendesbild img{
+    float: left;
+    margin-left: 5px;
+}

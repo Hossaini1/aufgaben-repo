@@ -1,0 +1,62 @@
+/* 1. Seite */
+#uberschrifth1 {
+    color: #DAD8D8;
+    background-color: #F58EA0;
+}
+
+.uberschrifth2 {
+    color: #EE2AEE;
+    background-color: #DAD8D8;
+}
+
+.zweitep {
+    background-color: #fe69b3;
+}
+
+.uberschrifth4 {
+    background-color: #EBF64D;
+}
+
+.uberschrifth4:hover{
+    color:blue;
+}
+
+p:hover {
+color:white;
+background-color: red;
+
+}
+
+li {
+    list-style-type: none;
+    background-color: #1ed7f0;
+    margin: 0.5rem;
+}
+
+.lipage2:visited {
+    color: #EBF64D;
+}
+
+a:visited {
+    color: #EBF64D;
+}
+
+a:hover {
+    color: rgb(7, 236, 7);
+}
+a:active {
+    color: #EE2AEE;
+}
+
+
+/* 2. Seite */
+
+.contactme1 {
+    color: #25d8f0;
+}
+
+.lipage2 {
+    list-style-type:circle;
+}
+
+

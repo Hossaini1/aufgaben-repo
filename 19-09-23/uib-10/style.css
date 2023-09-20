@@ -1,0 +1,45 @@
+body {
+    margin:0%;
+    background-color: black;
+    color: white;
+}
+
+.title1 {
+    margin-left: 875px;
+    margin-top: 100px;
+}
+.title2{
+    margin-left: 875px;
+}
+
+#container {
+    width: 44rem;
+    height: 34rem;
+    background-color: rgb(240, 8, 8);
+    margin: 20px 0 0 550px;
+    padding: 20px;
+    border-radius: 30px;
+   
+}
+
+img {
+    width: 360px;
+    object-fit:cover;
+}
+
+a:visited {
+    color: blueviolet;
+}
+
+a:link {
+color: rgb(248, 252, 255);
+}
+
+#container img {
+    float: left;
+    margin: 10px;
+}
+
+
+
+
